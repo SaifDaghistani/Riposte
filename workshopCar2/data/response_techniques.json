@@ -1,0 +1,5 @@
+{
+    "limp_mode" : "data/Response_Techniques/limp_mode.sh",
+    "reparameterization" : "data/Response_Techniques/reparameterization.sh",
+    "restart" : "data/Response_Techniques/restart.sh"
+}

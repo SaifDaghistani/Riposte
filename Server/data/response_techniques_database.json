@@ -1,0 +1,32 @@
+{
+    "1.0" : {
+        "Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz" : {
+            "privilege_escalation" : {
+                "limp_mode" : {
+                    "is_assessed" : false,
+                    "is_evaluated" : false,
+                    "is_effective" : false,
+                    "is_most_efficient" : false,
+                    "duration" : null,
+                    "log_path" : null
+                },
+                "reparameterization" : {
+                    "is_assessed" : false,
+                    "is_evaluated" : false,
+                    "is_effective" : false,
+                    "is_most_efficient" : false,
+                    "duration" : null,
+                    "log_path" : null
+                },
+                "restart" : {
+                    "is_assessed" : false,
+                    "is_evaluated" : false,
+                    "is_effective" : false,
+                    "is_most_efficient" : false,
+                    "duration" : null,
+                    "log_path" : null
+                }
+            }
+        }
+    }
+}
